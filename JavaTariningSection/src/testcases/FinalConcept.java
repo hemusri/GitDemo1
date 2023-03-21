@@ -11,6 +11,8 @@ public class FinalConcept {
 		//System.out.println(i);   //30;
 		
 		final int i=10;//constant values cannot will be change
+		System.out.println(i);
+		System.out.println("Hello changes");
 	}
 
 }
