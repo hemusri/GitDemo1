@@ -11,5 +11,10 @@ public class Fibnoic {
 		System.out.println("Kumar");
 		
 	}
+	
+	public void funA()
+	{
+		System.out.println("Guru");
+	}
 
 }
