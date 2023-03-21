@@ -7,6 +7,8 @@ public class Fibnoic {
 	{
 		System.out.println("Hello code");
 		System.out.println("hi");
+		System.out.println("bye");
+		System.out.println("Kumar");
 		
 	}
 
