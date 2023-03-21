@@ -13,6 +13,8 @@ public class FinalConcept {
 		final int i=10;//constant values cannot will be change
 		System.out.println(i);
 		System.out.println("Hello changes");
+		System.out.println("Hi");
+		System.out.println("Jokey");
 	}
 
 }
